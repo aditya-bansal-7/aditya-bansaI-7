@@ -25,7 +25,7 @@
   </summary>
 
   
-  💡 &nbsp; Hi there! I'm Aditya, a passionate **Frontend Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
+  💡 &nbsp; Hi there! I'm Aditya, a passionate **Full Stack Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
   
   🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
   💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
