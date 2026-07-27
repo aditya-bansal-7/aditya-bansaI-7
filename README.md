@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Hello+World,+Aditya+Here+%2F%3E;%3C+Full+Stack+Wizard+%2F%3E">
 </p>
 
@@ -124,4 +124,4 @@
     <a href="https://t.me/yt_download_bnsl_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=youtube-downloder&show_icons=true&theme=great-gatsby"></a>
     <a href="https://aditya-bansal-7.github.io/water-quality-monitoring-system/website/index.html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=water-quality-monitoring-system&show_icons=true&theme=great-gatsby"></a>
     </div>
-</details>
+</details> -->
